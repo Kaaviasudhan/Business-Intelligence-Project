@@ -53,4 +53,9 @@ This project is for educational purposes only. It is not intended for commercial
 
 [video_About this_project](https://github.com/Kaaviasudhan/Business-Intelligence-Project/assets/75906178/70c3b3c9-6b92-43cb-a3a8-84fcc4207d88)
 
+** Output:
+![my-deployment-f6c6a7 kb us-central1 gcp cloud es io_9243_app_dashboards (2)](https://github.com/Kaaviasudhan/Business-Intelligence-Project/assets/75906178/47bf584f-2130-4e30-8408-8a7c69c08826)
+
+
+
 
